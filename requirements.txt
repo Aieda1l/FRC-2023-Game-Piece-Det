@@ -9,6 +9,6 @@ PyYAML==6.0.1
 streamlit==1.27.2
 torch==2.1.0
 torch-summary==1.4.5
-torchvision==0.15.2
+torchvision==0.16.0
 tqdm==4.64.1
 yt-dlp==2023.10.13
